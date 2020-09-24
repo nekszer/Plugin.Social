@@ -1,0 +1,9 @@
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\SocialXamarinForms.deps.json
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\SocialXamarinForms.dll
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\SocialXamarinForms.pdb
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\FacebookOAuthRequest.xaml.g.cs
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\SocialXamarinForms.AssemblyInfoInputs.cache
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\SocialXamarinForms.AssemblyInfo.cs
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamlC.stamp
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\SocialXamarinForms.dll
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\SocialXamarinForms.pdb

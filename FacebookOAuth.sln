@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialXamarinForms", "FacebookOAuth\SocialXamarinForms.csproj", "{1778F9EF-B53A-43FB-B846-4CA06DB34638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1778F9EF-B53A-43FB-B846-4CA06DB34638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1778F9EF-B53A-43FB-B846-4CA06DB34638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1778F9EF-B53A-43FB-B846-4CA06DB34638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1778F9EF-B53A-43FB-B846-4CA06DB34638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A19C3A4-479D-418E-A10B-56C9A388573F}
+	EndGlobalSection
+EndGlobal

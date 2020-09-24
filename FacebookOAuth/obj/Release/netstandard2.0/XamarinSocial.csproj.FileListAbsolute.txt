@@ -1,0 +1,11 @@
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\XamarinSocial.deps.json
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\XamarinSocial.dll
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\bin\Release\netstandard2.0\XamarinSocial.pdb
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\FacebookOAuthRequest.xaml.g.cs
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.csproj.CoreCompileInputs.cache
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.AssemblyInfoInputs.cache
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.AssemblyInfo.cs
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamlC.stamp
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.dll
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.pdb
+Z:\Repository\Proyects\FacebookOAuth\FacebookOAuth\obj\Release\netstandard2.0\XamarinSocial.csprojAssemblyReference.cache
